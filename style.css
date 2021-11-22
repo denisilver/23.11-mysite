@@ -8,3 +8,10 @@
     width: 322px;
     height: 282px;
 }
+
+.info
+{
+    font-size: 35px;
+    color: salmon;
+    font-weight: bold;
+}
