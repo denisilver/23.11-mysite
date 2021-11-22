@@ -18,9 +18,7 @@
     right: 10%;
 }
 
-.heading{
-    position: absolute;
-    color: salmon;
-    width: 25px;
-    height: 30px;
+.heading
+{
+    text-align: center;
 }
