@@ -1,18 +1,10 @@
-* {
-    margin: 0;
-    padding: 0;
-  }
-
 .header
 {
     display: flex;
     margin: 50px  auto;
 }
-.pic {
-    display: flex;
-    flex-direction: column;
-    justify-content: end;
-    align-content: flex-end;
+.pic 
+{
     width: 322px;
     height: 282px;
-  }
+}
