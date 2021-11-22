@@ -18,7 +18,10 @@
     right: 10%;
 }
 
-.heading
+.heads
 {
     text-align: center;
+    color: salmon;
+    width: 45px;
+    height: 65px;
 }
