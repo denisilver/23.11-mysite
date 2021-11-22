@@ -28,13 +28,12 @@
 
 .aside
 {
-    border-top: 50px;
     width: 100px;
     height: 100px;
     border: 1px solid #333;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
-    border-radius: 10px;
+    border-radius: 13px;
     color: yellow;
     position: absolute; right: 150px;
 }
