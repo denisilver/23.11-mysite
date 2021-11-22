@@ -1,6 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 .header
 {
-    color: rgba(255, 0, 0, 0);
-    width: 25px;
-    height: 15px;
+    display: flex;
+    margin: 50px  auto;
 }
