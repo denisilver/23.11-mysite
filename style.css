@@ -34,4 +34,6 @@
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
+    color: yellow;
+    position: absolute; right: 150px;
 }
