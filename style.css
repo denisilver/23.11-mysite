@@ -20,6 +20,8 @@
 
 .heads
 {
+    display: flex;
+    flex-direction: column;
     text-align: center;
     color: salmon;
     width: 85px;
