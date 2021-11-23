@@ -49,5 +49,5 @@
     -moz-border-radius: 10px;
     border-radius: 13px;
     color: yellow;
-    position: absolute; right: 150px;
+    position: absolute; right: 150px; top: 300px;
 }
