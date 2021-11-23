@@ -20,16 +20,7 @@
     display: flex;
     margin: 0 auto;
 }
-.pic 
-{
-    width: 265px;
-    height: 226px;
-    right: 10px;
-    position: absolute;
-    float: right;
-    margin-top: 15px;
-    
-}
+
 
 .footer
 {
@@ -38,13 +29,6 @@
     right: 10%;
 }
 
-.heads
-{
-align-content: center;
-font-size: 64px;
-color: rgb(245, 227, 67);
-
-}
 
 .aside
 {
