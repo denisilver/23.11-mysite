@@ -1,7 +1,8 @@
 .header
 {
+    width: 100%;
     display: flex;
-    margin: 50px  auto;
+    margin: 0 auto;
 }
 .pic 
 {
