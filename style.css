@@ -2,6 +2,7 @@
 {
     background-size: cover;
 }
+
 .body
 {
     width: 100%;
@@ -26,6 +27,7 @@
     right: 10px;
     position: absolute;
     float: right;
+    margin-top: 15px;
     
 }
 
