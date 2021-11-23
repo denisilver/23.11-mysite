@@ -19,8 +19,10 @@
 {
     width: 265px;
     height: 226px;
-    position: fixed
     right: 10px;
+    position: absolute;
+    float: right;
+    
 }
 
 .footer
