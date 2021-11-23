@@ -3,6 +3,13 @@
     background-size: cover;
 }
 
+.header
+{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
 .body
 {
     width: 100%;
