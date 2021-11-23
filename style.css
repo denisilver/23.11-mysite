@@ -21,6 +21,12 @@
     margin: 0 auto;
 }
 
+h1.
+{
+    align-content: center;
+    font-size: 36px;
+    color: rgb(241, 208, 15);
+}
 
 .footer
 {
