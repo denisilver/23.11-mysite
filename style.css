@@ -28,3 +28,29 @@
 
 }
 
+.aside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav{
+    margin-left: 40%;
+}
+
+.buttonaside
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 80%;
+    margin-top: 3%;
+    font-size: 50px;
+    border-radius: 50% 50% 50% 50%;
+}
+
+.footer
+{
+display: flex;
+flex-direction: row;
+justify-content: end;
+margin-top: 4%;
+}
