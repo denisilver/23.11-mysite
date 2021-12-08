@@ -12,8 +12,11 @@
 
 </head>
 <body>
-    <embed src="every_breath_you_take_5.mid" hidden="true" autostart="true" autoplay="true">
-        
+
+    <audio controls>
+    <source src="aud/fonMusic.mp3" hidden="true" autostart="true" autoplay="true">
+    </audio>
+
     <div class = "header">
 
         <div class="titles">
@@ -28,9 +31,14 @@
     </div>
  
     <main class="main">
+        
+        <button class="btn">
+            Окно
+        </button>
+
         <nav class="nav">
 
-            <button style="font-size: 45px; color: darkorange; background-color: darkblue; border-radius: 50% 50% 50% 50%;">Видеоуроки</button>
+            <button style="font-size: 200%; color: darkorange; background-color: darkblue; border-radius: 50% 50% 50% 50%;">Видеоуроки</button>
 
         </nav>
 
@@ -38,29 +46,34 @@
 
             <div class="buttonaside">
 
+                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 50%;">Ноты</button>
+                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 50%;">Табы</button>
+                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 50%;">Музыкальная грамота</button>
+                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 50%;">Из истории инструмента</button>
+                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 50%;">Великие гитаристы</button>
 
-                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 45px;">Ноты</button>
-                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 45px;">Табы</button>
-                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 45px;">Музыкальная грамота</button>
-                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 45px;">Из истории инструмента</button>
-                <button style="background-color: darkblue; color: darkorange; border-radius: 50% 50% 50% 50%; font-size: 45px;">Великие гитаристы</button>
-
-           
             </div>
 
         </div>
 
     </main>
 
-   
     <footer class="footer">
+        
+        <button class="socialWebLink"><img src="img/facebook.png" alt="facebook" width="27%"; height="70%"></button>
+        <button class="socialWebLink"><img src="img/mail.png" alt="mail"  width="27%"; height="70%"></button>
+        <button class="socialWebLink"><img src="img/vk.png" alt="vkontakte" width="27%"; height="80%"></button>
+        <button class="socialWebLink"><img src="img/ok.png" alt="odnoklassniki" width="27%"; height="80%"></button>
+        <button class="socialWebLink"><img src="img/youtube.png" alt="youtube" width="30%"; height="80%"></button>
 
-        <button><img src="img/facebook.png" alt="facebook" width="30px"; height="30px"></button>
-        <button><img src="img/mail.png" alt="mail"  width="30px"; height="30px"></button>
-        <button><img src="img/vk.png" alt="vkontakte" width="30px"; height="30px"></button>
-        <button><img src="img/ok.png" alt="odnoklassniki" width="30px"; height="30px"></button>
-        <button><img src="img/youtube.png" alt="youtube" width="30px"; height="30px"></button>
+    </div>
 
+    <script src="script.js"></script>
+
+    <div class="modal">
+
+        <button class="close">Закрыть</button> 
+    
     </div>
 
 </body>
